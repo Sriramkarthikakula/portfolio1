@@ -73,3 +73,13 @@
     margin: 50px;
     padding: 30px;
 }
+.workexp{
+    width: 1000px;
+    height:200px;
+    background: black;
+    border-bottom-right-radius: 20px;
+    border-top-left-radius: 20px;
+    box-shadow: 10px 10px #B7C4CF;
+    margin: 50px;
+    padding: 30px;
+}
