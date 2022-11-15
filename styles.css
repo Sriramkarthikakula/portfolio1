@@ -13,3 +13,10 @@
     width:100%;
     text-shadow: 5px 5px 1px black;
 }
+.box{
+    box-shadow: 0 0 0;
+    transition: box-shadow 1s;
+}
+.box:hover{
+    box-shadow: 5px 5px 10px black;
+}
