@@ -93,3 +93,13 @@
     margin: 50px;
     padding: 70px;
 }
+.extra{
+    width: 230px;
+    height:230px;
+    background: black;
+    border-bottom-right-radius: 20px;
+    border-top-left-radius: 20px;
+    box-shadow: 15px 15px #B7C4CF;
+    margin: 50px;
+    padding: 30px;
+}
