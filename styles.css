@@ -83,3 +83,13 @@
     margin: 50px;
     padding: 30px;
 }
+.testimonials{
+    width: 450px;
+    height:300px;
+    background: black;
+    border-bottom-right-radius: 20px;
+    border-top-left-radius: 20px;
+    box-shadow: 20px 20px #B7C4CF;
+    margin: 50px;
+    padding: 70px;
+}
