@@ -39,3 +39,6 @@
     padding-left: 11px;
     box-shadow: 2px 2px 5px black;
 }
+.icons:hover{
+    background: #7978FF;
+}
