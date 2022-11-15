@@ -45,3 +45,6 @@
 .bottomicons{
     background: #4649FF;
 }
+.bottomicons:hover{
+    background: #7978FF;
+}
