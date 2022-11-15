@@ -1,0 +1,15 @@
+.fill::before{
+    content: "Rohith";
+    position: absolute;
+    top:0;
+    left:0;
+    width:0;
+    color: black;
+    overflow: hidden;
+    transition: all 1s linear;
+    transition-timing-function: 2s;
+}
+.fill:hover::before{
+    width:100%;
+    text-shadow: 5px 5px 1px black;
+}
