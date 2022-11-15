@@ -48,3 +48,13 @@
 .bottomicons:hover{
     background: #7978FF;
 }
+.goodat{
+    width: 290px;
+    height:330px;
+    background: black;
+    border-bottom-right-radius: 20px;
+    border-top-left-radius: 20px;
+    box-shadow: 20px 20px #B7C4CF;
+    margin: 50px;
+    padding: 40px;
+}
